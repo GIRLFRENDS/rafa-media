@@ -9,7 +9,7 @@ module.exports.alldown = (url) =>
         status: true,
         dev: "ARYAN AHMED RUDRO",
         devfb: "https://www.facebook.com/aryan.x.401",
-        devwp: "+8801894253289", 
+        devwp: "wa.me/+8801894253289", 
         data: data || msg,
       });
     } catch (error) {
