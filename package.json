@@ -1,5 +1,5 @@
 {
-  "name": "aryan-rafa-midea-downloader",
+  "name": "aryan-midea-downloader",
   "version": "0.0.1",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
@@ -38,14 +38,14 @@
     "threads",
     "nayan"
   ],
-  "author": "ARYAN",
+  "author": "NAYAN",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues"
   },
   "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader#readme",
   "dependencies": {
-    "nayan-media-downloader": "^2.6.6"
+    "imon-videos-downloader": "^0.0.3"
   },
   "devDependencies": {
     "@types/node": "^22.1.0",
