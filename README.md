@@ -1,8 +1,8 @@
 ## Example 
 ```code
-const nayan = require('your-project-name');
+const aryan = require('aryan-videos-downloader');
 
-nayan.alldown('url')
+aryan.alldown('url')
   .then(data => {
     console.log(data);
   })
