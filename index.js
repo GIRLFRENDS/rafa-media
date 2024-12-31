@@ -1,6 +1,6 @@
 module.exports.alldown = (url) => 
   new Promise(async (resolve, reject) => {
-    const { alldown } = require("imon-media-downloader");
+    const { alldown } = require("imon-videos-downloader");
 
     try {
       const { data, msg } = await alldown(url);
@@ -8,7 +8,7 @@ module.exports.alldown = (url) =>
       resolve({
         status: true,
         dev: "ARYAN AHMED RUDRO",
-        devfb: "https://www.facebook.com/aryan.x.401",
+        devfb: "https://www.facebook.com/aryan.x.404",
         devwp: "wa.me/+8801894253289", 
         data: data || msg,
       });
