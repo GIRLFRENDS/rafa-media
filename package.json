@@ -1,14 +1,15 @@
 {
-  "name": "aryan-midea-downloader",
+  "name": "aryan-media-downloader",
   "version": "0.0.1",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader.git"
+    "url": ""
   },
   "keywords": [
     "instagram",
@@ -36,23 +37,17 @@
     "capcut",
     "likee",
     "threads",
-    "nayan"
+    "aryan"
   ],
-  "author": "NAYAN",
+  "author": "ArYAN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/MOHAMMAD-NAYAN/nayan-media-downloader#readme",
+  "homepage": "",
+
   "dependencies": {
-    "imon-videos-downloader": "^0.0.3"
-  },
-  "devDependencies": {
-    "@types/node": "^22.1.0",
-    "eslint": "^8.57.0",
-    "typescript": "^5.5.4"
-  },
-  "engines": {
-    "node": ">=14.0"
+    "axios": "^1.4.0",
+    "imon-videos-downloader": "^0.0.4"
   }
 }
