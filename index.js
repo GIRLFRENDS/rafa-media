@@ -8,8 +8,9 @@ module.exports.alldown = (url) =>
       resolve({
         status: true,
         dev: "ARYAN AHMED RUDRO",
-        devfb: "https://www.facebook.com/aryan.x.404",
-        devwp: "wa.me/+8801894253289", 
+        devfb: "https://www.facebook.com/profile.php?id=61572658681308",
+        devwp: "wa.me/+8801894253289",
+        github: "https://github.com/ARYAN-BOT-404",
         data: data || msg,
       });
     } catch (error) {
